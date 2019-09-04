@@ -1,0 +1,54 @@
+{
+  "_from": "git+https://github.com/JohnKim7/react-native-location-switch.git",
+  "_id": "react-native-location-switch@0.1.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-location-switch",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-location-switch@git+https://github.com/JohnKim7/react-native-location-switch.git",
+    "name": "react-native-location-switch",
+    "escapedName": "react-native-location-switch",
+    "rawSpec": "git+https://github.com/JohnKim7/react-native-location-switch.git",
+    "saveSpec": "git+https://github.com/JohnKim7/react-native-location-switch.git",
+    "fetchSpec": "https://github.com/JohnKim7/react-native-location-switch.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/JohnKim7/react-native-location-switch.git#5185fa337b9b98486f848b67e9b5cdbe34611cdd",
+  "_spec": "react-native-location-switch@git+https://github.com/JohnKim7/react-native-location-switch.git",
+  "_where": "/Users/john/Desktop/wynd-marjane-rn",
+  "author": {
+    "name": "Philipp Weitz"
+  },
+  "bugs": {
+    "url": "https://github.com/philiWeitz/react-native-location-switch/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A react Native module to enable location based services on Android and IOS.",
+  "homepage": "https://github.com/philiWeitz/react-native-location-switch#readme",
+  "keywords": [
+    "react-native",
+    "android",
+    "ios",
+    "library",
+    "location"
+  ],
+  "license": "Apache-2.0",
+  "name": "react-native-location-switch",
+  "nativePackage": true,
+  "peerDependencies": {
+    "react-native": ">= 0.38.0"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philiWeitz/react-native-location-switch.git"
+  },
+  "version": "0.1.0"
+}
